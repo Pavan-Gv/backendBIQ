@@ -1,0 +1,108 @@
+[
+    {
+      "_id": "60d21b4667d0d8992e610c85",
+      "name": "Admin User",
+      "email": "admin@insuranceapp.com",
+      "password": "password123",
+      "passwordConfirm": "password123",
+      "role": "ADMIN",
+      "address": {
+        "street": "123 Admin Street",
+        "city": "Admin City",
+        "state": "AS",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "phone": "555-123-4567",
+      "active": true
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c86",
+      "name": "Agent Smith",
+      "email": "agent@insuranceapp.com",
+      "password": "password123",
+      "passwordConfirm": "password123",
+      "role": "AGENT",
+      "address": {
+        "street": "456 Agent Avenue",
+        "city": "Agent City",
+        "state": "AS",
+        "zipCode": "20002",
+        "country": "USA"
+      },
+      "phone": "555-234-5678",
+      "active": true
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c87",
+      "name": "Tech Innovations Inc",
+      "email": "tech@example.com",
+      "password": "password123",
+      "passwordConfirm": "password123",
+      "role": "CUSTOMER",
+      "businessType": "TECHNOLOGY",
+      "address": {
+        "street": "789 Tech Boulevard",
+        "city": "Silicon Valley",
+        "state": "CA",
+        "zipCode": "94025",
+        "country": "USA"
+      },
+      "phone": "555-345-6789",
+      "active": true
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c88",
+      "name": "Health Solutions Ltd",
+      "email": "health@example.com",
+      "password": "password123",
+      "passwordConfirm": "password123",
+      "role": "CUSTOMER",
+      "businessType": "HEALTHCARE",
+      "address": {
+        "street": "101 Medical Plaza",
+        "city": "Wellness City",
+        "state": "NY",
+        "zipCode": "10022",
+        "country": "USA"
+      },
+      "phone": "555-456-7890",
+      "active": true
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c89",
+      "name": "Retail Wonders",
+      "email": "retail@example.com",
+      "password": "password123",
+      "passwordConfirm": "password123",
+      "role": "CUSTOMER",
+      "businessType": "RETAIL",
+      "address": {
+        "street": "222 Shopping Lane",
+        "city": "Market Town",
+        "state": "TX",
+        "zipCode": "75001",
+        "country": "USA"
+      },
+      "phone": "555-567-8901",
+      "active": true
+    },
+    {
+      "_id": "60d21b4667d0d8992e610c90",
+      "name": "BuildRight Construction",
+      "email": "construction@example.com",
+      "password": "password123",
+      "passwordConfirm": "password123",
+      "role": "CUSTOMER",
+      "businessType": "CONSTRUCTION",
+      "address": {
+        "street": "333 Builder Way",
+        "city": "Foundation City",
+        "state": "FL",
+        "zipCode": "33101",
+        "country": "USA"
+      },
+      "phone": "555-678-9012",
+      "active": true
+    }
+  ]
